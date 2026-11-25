@@ -1,0 +1,565 @@
+trip_id,service_id,direction_id,direction_name,trip_headsign,block_id,shape_id,first_stop,last_stop,departure_time,arrival_time,n_stops
+15461877,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200742,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:52:00,12:33:00,42
+15461878,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200726,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:12:00,7:50:00,42
+15461879,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200729,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:41:00,11:20:00,42
+15461880,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200726,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,24:11:00,24:43:00,39
+15461881,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200722,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:16:00,9:55:00,39
+15461882,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200732,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:20:00,9:02:00,39
+15461883,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200731,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:46:00,20:25:00,42
+15461884,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200736,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:31:00,21:10:00,42
+15461885,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200738,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:21:00,14:05:00,39
+15461886,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200742,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:03:00,18:50:00,39
+15461887,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200732,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:05:00,14:50:00,39
+15461888,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200729,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:49:00,9:29:00,39
+15461889,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:34:00,9:14:00,39
+15461890,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200731,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:36:00,16:30:00,39
+15461891,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200726,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:47:00,15:38:00,42
+15461892,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200738,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:28:00,18:16:00,39
+15461893,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200729,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:37:00,17:31:00,39
+15461894,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200738,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:22:00,12:03:00,39
+15461895,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200742,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:22:00,6:59:00,39
+15461896,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200729,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:24:00,5:59:00,39
+15461897,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200727,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,4:59:00,5:34:00,39
+15461898,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200722,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:45:00,23:19:00,39
+15461899,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200723,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:47:00,22:23:00,39
+15461900,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200726,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:46:00,21:24:00,39
+15461901,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200723,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:12:00,18:57:00,39
+15461902,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200720,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:02:00,17:56:00,39
+15461903,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200732,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:22:00,19:07:00,42
+15461904,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200731,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,24:51:00,25:23:00,39
+15461905,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200722,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:11:00,17:59:00,39
+15461906,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200736,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:50:00,24:23:00,39
+15461907,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:02:00,22:38:00,39
+15461908,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200738,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:16:00,21:54:00,42
+15461909,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200729,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:33:00,15:20:00,39
+15461910,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200725,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:36:00,14:20:00,39
+15461911,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200732,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:07:00,12:48:00,39
+15461912,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200725,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:37:00,12:18:00,39
+15461913,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200722,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:08:00,11:49:00,39
+15461914,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:26:00,11:05:00,39
+15461915,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200732,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:14:00,10:53:00,39
+15461916,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200722,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:25:00,8:04:00,39
+15461917,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200736,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,25:21:00,25:53:00,39
+15461918,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200726,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,25:51:00,26:23:00,42
+15461919,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200742,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:53:00,16:48:00,42
+15461920,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200722,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:03:00,15:54:00,39
+15461921,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200742,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:51:00,14:36:00,42
+15461922,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200726,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:51:00,13:34:00,42
+15461923,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200726,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:54:00,11:35:00,39
+15461924,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200742,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:02:00,10:41:00,39
+15461925,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200742,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:06:00,8:48:00,39
+15461926,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200733,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:54:00,7:32:00,39
+15461927,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200741,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:46:00,17:40:00,39
+15461928,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200732,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:11:00,17:06:00,39
+15461929,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:12:00,5:47:00,39
+15461930,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:16:00,20:55:00,39
+15461931,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200722,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:06:00,13:49:00,39
+15461932,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200729,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:36:00,13:19:00,39
+15461933,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:29:00,19:14:00,39
+15461934,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200740,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:56:00,9:36:00,42
+15461935,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200725,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:59:00,6:35:00,39
+15461936,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:48:00,7:26:00,39
+15461937,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200729,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:00:00,7:38:00,39
+15461938,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200738,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:32:00,8:12:00,39
+15461939,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200735,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:52:00,8:34:00,39
+15461940,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200727,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:27:00,9:09:00,42
+15461941,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:19:00,17:14:00,39
+15461942,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200731,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:46:00,18:33:00,39
+15461943,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200735,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:50:00,10:29:00,39
+15461944,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200738,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:47:00,6:23:00,42
+15461945,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:21:00,13:04:00,39
+15461946,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200738,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:00:00,23:34:00,39
+15461947,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200722,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:16:00,19:55:00,39
+15461948,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200739,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:19:00,15:06:00,39
+15461949,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200736,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:15:00,22:51:00,42
+15461950,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200738,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:31:00,20:10:00,39
+15461951,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200743,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:20:00,18:08:00,42
+15461952,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200722,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:01:00,21:39:00,39
+15461953,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200727,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:39:00,7:17:00,39
+15461954,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200735,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:07:00,6:43:00,39
+15461955,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200738,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:27:00,10:06:00,39
+15461956,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200725,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:45:00,8:27:00,42
+15461957,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200736,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:29:00,17:23:00,42
+15461958,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200725,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:38:00,10:17:00,42
+15461959,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200721,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:39:00,8:19:00,39
+15461960,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200733,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:42:00,9:22:00,39
+15461961,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200736,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:38:00,19:23:00,39
+15461962,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200726,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:54:00,17:48:00,42
+15461963,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200723,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:01:00,20:40:00,39
+15461964,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200734,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:55:00,18:43:00,42
+15461965,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200730,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:18:00,7:57:00,39
+15461966,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200728,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:59:00,8:41:00,39
+15461967,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200738,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:19:00,16:11:00,42
+15461968,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200725,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:37:00,18:25:00,39
+15461969,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200726,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:03:00,9:43:00,39
+15461970,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200729,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:48:00,19:31:00,39
+15461971,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200728,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:14:00,6:50:00,39
+15461972,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200732,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:31:00,7:09:00,42
+15461973,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200726,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:00:00,19:43:00,42
+15461974,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200731,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:31:00,22:09:00,39
+15461975,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200726,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:30:00,23:06:00,39
+15461976,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200723,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:30:00,24:04:00,39
+15461977,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200731,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:14:00,23:48:00,42
+15461978,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200722,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,24:30:00,25:03:00,42
+15461979,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200743,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:08:00,16:00:00,39
+15461980,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200725,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:29:00,16:21:00,39
+15461981,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200734,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:45:00,16:39:00,39
+15461982,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200723,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:01:00,16:56:00,39
+15461983,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200720,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:55:00,15:46:00,39
+15461984,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200730,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:36:00,6:11:00,39
+15461985,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200740,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:07:00,7:45:00,39
+15461986,1,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200719,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:14:00,8:56:00,39
+15461987,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200726,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:54:00,10:43:00,46
+15461988,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200723,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:05:00,18:03:00,44
+15461989,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:34:00,8:25:00,46
+15461990,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200735,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:55:00,7:42:00,46
+15461991,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200726,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,23:20:00,23:59:00,49
+15461992,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200734,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:48:00,17:47:00,44
+15461993,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200723,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:42:00,23:21:00,46
+15461994,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200731,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:24:00,23:06:00,49
+15461995,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200741,321504,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:38:00,16:38:00,47
+15461996,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200732,321504,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:08:00,16:02:00,47
+15461997,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200735,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:47:00,9:39:00,46
+15461998,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200725,321504,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:28:00,15:21:00,47
+15461999,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200726,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:45:00,14:36:00,46
+15462000,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200733,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:41:00,8:32:00,49
+15462001,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:07:00,21:47:00,46
+15462002,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200731,321504,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:39:00,17:38:00,47
+15462003,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200738,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:59:00,5:39:00,49
+15462004,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200726,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:47:00,16:46:00,44
+15462005,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200720,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:54:00,16:53:00,44
+15462006,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200721,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:43:00,7:29:00,49
+15462007,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200727,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:27:00,8:17:00,46
+15462008,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200731,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:47:00,19:34:00,49
+15462009,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200729,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:40:00,10:29:00,46
+15462010,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200729,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:41:00,18:33:00,49
+15462011,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200743,321504,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:12:00,17:12:00,47
+15462012,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200732,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:13:00,10:02:00,46
+15462013,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200729,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:08:00,6:52:00,49
+15462014,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200732,321504,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:14:00,18:11:00,47
+15462015,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200738,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:21:00,17:20:00,44
+15462016,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200729,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:32:00,16:26:00,44
+15462017,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:20:00,14:11:00,46
+15462018,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200738,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:19:00,13:10:00,46
+15462019,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200732,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:20:00,8:10:00,46
+15462020,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200733,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:02:00,6:46:00,46
+15462021,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200736,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:37:00,20:21:00,46
+15462022,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200722,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:06:00,20:49:00,46
+15462023,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200738,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:24:00,9:16:00,46
+15462024,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200725,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:49:00,7:35:00,46
+15462025,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200742,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:33:00,6:13:00,49
+15462026,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200740,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:55:00,8:46:00,46
+15462027,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200732,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:40:00,6:23:00,46
+15462028,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200729,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:33:00,14:24:00,46
+15462029,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200742,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:50:00,13:41:00,46
+15462030,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200725,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:35:00,13:26:00,46
+15462031,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200726,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:49:00,12:39:00,46
+15462032,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200729,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:34:00,12:24:00,46
+15462033,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200725,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:34:00,11:23:00,46
+15462034,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200723,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:59:00,15:53:00,44
+15462035,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:19:00,12:09:00,46
+15462036,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200738,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:22:00,11:11:00,46
+15462037,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:25:00,10:14:00,46
+15462038,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200722,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:15:00,19:05:00,46
+15462039,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200726,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:56:00,18:48:00,46
+15462040,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200723,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:52:00,21:34:00,49
+15462041,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200723,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:06:00,19:53:00,46
+15462042,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200742,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:49:00,11:38:00,46
+15462043,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200726,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:54:00,20:36:00,49
+15462044,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200722,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,23:39:00,24:16:00,46
+15462045,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200726,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,24:58:00,25:35:00,49
+15462046,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200736,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,24:33:00,25:10:00,49
+15462047,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200736,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:31:00,18:27:00,46
+15462048,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200722,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:52:00,22:32:00,46
+15462049,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200727,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:14:00,4:49:00,46
+15462050,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:27:00,5:02:00,46
+15462051,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200729,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:39:00,5:14:00,46
+15462052,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200725,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:07:00,5:45:00,46
+15462053,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200735,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:16:00,5:56:00,46
+15462054,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200725,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:35:00,9:27:00,46
+15462055,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200730,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:25:00,7:10:00,46
+15462056,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200728,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:24:00,6:04:00,46
+15462057,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200742,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:51:00,15:45:00,44
+15462058,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200727,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:48:00,6:31:00,46
+15462059,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200722,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:31:00,7:16:00,46
+15462060,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200728,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:02:00,7:49:00,46
+15462061,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200722,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:13:00,9:06:00,49
+15462062,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200729,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:47:00,8:38:00,46
+15462063,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:16:00,16:10:00,44
+15462064,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200742,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:56:00,17:55:00,44
+15462065,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200725,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:30:00,17:29:00,44
+15462066,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:23:00,18:19:00,46
+15462067,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200726,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:19:00,7:04:00,46
+15462068,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200738,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:31:00,19:20:00,46
+15462069,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200732,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:05:00,13:56:00,49
+15462070,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200722,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:04:00,12:54:00,49
+15462071,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200732,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:04:00,11:53:00,49
+15462072,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200722,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:08:00,10:57:00,49
+15462073,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200738,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:37:00,7:23:00,46
+15462074,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:22:00,20:06:00,46
+15462075,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200739,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:56:00,6:40:00,46
+15462076,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200738,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:21:00,21:04:00,46
+15462077,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200731,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:34:00,15:28:00,44
+15462078,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200726,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:39:00,22:21:00,49
+15462079,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200742,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:58:00,9:51:00,49
+15462080,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200742,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:07:00,7:56:00,49
+15462081,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200726,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:01:00,8:52:00,46
+15462082,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200736,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:24:00,16:18:00,44
+15462083,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200722,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:03:00,17:02:00,44
+15462084,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200743,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:07:00,15:00:00,46
+15462085,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200731,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:37:00,21:20:00,46
+15462086,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200736,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:22:00,22:02:00,46
+15462087,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200738,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:07:00,22:47:00,46
+15462088,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200736,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,23:01:00,23:40:00,46
+15462089,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200731,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,24:00:00,24:37:00,46
+15462090,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200738,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:18:00,15:09:00,44
+15462091,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200734,321505,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:43:00,15:37:00,44
+15462092,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200722,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:57:00,14:50:00,49
+15462093,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200730,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:51:00,5:26:00,46
+15462094,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200740,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:14:00,6:59:00,46
+15462095,1,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200719,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:14:00,8:03:00,46
+15462096,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200748,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:59:00,13:40:00,42
+15462097,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200752,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:17:00,10:55:00,39
+15462098,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200745,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:13:00,19:51:00,39
+15462099,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200749,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:13:00,18:55:00,39
+15462100,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:34:00,18:21:00,39
+15462101,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200748,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:58:00,17:45:00,39
+15462102,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:26:00,22:01:00,39
+15462103,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:53:00,23:25:00,39
+15462104,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200746,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:53:00,22:28:00,39
+15462105,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200750,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,24:37:00,25:07:00,42
+15462106,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200744,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:11:00,13:52:00,39
+15462107,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200749,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:27:00,13:08:00,39
+15462108,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:52:00,24:24:00,39
+15462109,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200749,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:20:00,23:55:00,42
+15462110,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200753,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:02:00,9:37:00,42
+15462111,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200752,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:36:00,9:11:00,39
+15462112,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200746,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:15:00,20:53:00,39
+15462113,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200752,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:58:00,18:43:00,42
+15462114,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:28:00,20:06:00,39
+15462115,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200753,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:46:00,17:33:00,42
+15462116,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200752,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:58:00,16:44:00,42
+15462117,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200745,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:00:00,8:34:00,42
+15462118,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200748,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:57:00,15:42:00,42
+15462119,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:07:00,23:39:00,39
+15462120,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:29:00,21:07:00,39
+15462121,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200749,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:59:00,20:35:00,42
+15462122,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200749,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:20:00,17:06:00,39
+15462123,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200751,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:10:00,16:56:00,39
+15462124,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:34:00,16:19:00,39
+15462125,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200744,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:09:00,15:54:00,39
+15462126,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200751,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:10:00,14:54:00,39
+15462127,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:44:00,6:16:00,39
+15462128,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200752,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:24:00,5:56:00,39
+15462129,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:04:00,5:36:00,39
+15462130,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:10:00,21:45:00,39
+15462131,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:51:00,12:32:00,39
+15462132,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:44:00,11:23:00,39
+15462133,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:53:00,10:31:00,39
+15462134,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200744,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:27:00,10:03:00,39
+15462135,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200749,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:49:00,9:24:00,39
+15462136,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:47:00,7:21:00,39
+15462137,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:46:00,18:31:00,39
+15462138,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:46:00,16:32:00,39
+15462139,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200746,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:34:00,17:20:00,39
+15462140,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:45:00,19:23:00,39
+15462141,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200745,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:41:00,10:17:00,39
+15462142,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200749,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:33:00,11:11:00,39
+15462143,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:47:00,13:28:00,39
+15462144,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:46:00,14:30:00,39
+15462145,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:45:00,15:30:00,39
+15462146,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:24:00,7:58:00,39
+15462147,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:39:00,12:18:00,39
+15462148,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200748,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:41:00,21:17:00,42
+15462149,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200748,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:21:00,22:56:00,39
+15462150,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200749,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:37:00,22:12:00,42
+15462151,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:08:00,22:43:00,39
+15462152,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200745,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:36:00,23:11:00,42
+15462153,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200749,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,24:57:00,25:29:00,39
+15462154,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200753,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,25:22:00,25:54:00,39
+15462155,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200745,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,25:52:00,26:24:00,39
+15462156,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200744,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:48:00,8:22:00,39
+15462157,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:24:00,8:59:00,39
+15462158,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200748,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:36:00,8:10:00,39
+15462159,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:29:00,7:03:00,39
+15462160,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200748,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:02:00,6:36:00,42
+15462161,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200752,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:59:00,7:33:00,42
+15462162,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200752,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:02:00,12:43:00,42
+15462163,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200748,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:03:00,11:42:00,42
+15462164,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200750,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:05:00,10:43:00,42
+15462165,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200752,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:58:00,14:42:00,42
+15462166,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200744,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:15:00,11:54:00,39
+15462167,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200751,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:15:00,12:56:00,39
+15462168,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200745,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:23:00,14:04:00,39
+15462169,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200749,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:22:00,15:06:00,39
+15462170,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200745,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:22:00,18:09:00,39
+15462171,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200746,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:30:00,19:12:00,39
+15462172,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200748,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:58:00,19:36:00,42
+15462173,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200746,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:37:00,24:09:00,39
+15462174,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200745,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,24:17:00,24:49:00,39
+15462175,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200750,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:45:00,20:23:00,39
+15462176,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200745,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:57:00,21:32:00,39
+15462177,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200749,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:12:00,7:46:00,39
+15462178,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:12:00,8:46:00,39
+15462179,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200748,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:15:00,9:51:00,39
+15462180,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200745,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:27:00,12:06:00,39
+15462181,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200746,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:35:00,13:16:00,39
+15462182,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200747,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:35:00,14:16:00,39
+15462183,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200746,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:34:00,15:18:00,39
+15462184,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200745,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:21:00,16:06:00,39
+15462185,2,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200744,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:10:00,17:57:00,39
+15462186,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200750,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:32:00,8:13:00,46
+15462187,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200744,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:33:00,9:15:00,46
+15462188,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200753,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:41:00,12:30:00,46
+15462189,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200750,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:43:00,13:35:00,49
+15462190,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200753,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:42:00,14:34:00,46
+15462191,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200750,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:42:00,15:34:00,49
+15462192,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200748,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:54:00,16:45:00,46
+15462193,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200752,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:59:00,17:50:00,49
+15462194,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200745,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:17:00,19:05:00,46
+15462195,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200744,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:55:00,7:36:00,46
+15462196,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200753,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:32:00,7:10:00,49
+15462197,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200747,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:36:00,6:14:00,49
+15462198,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200751,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:07:00,13:59:00,46
+15462199,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200750,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:48:00,19:31:00,49
+15462200,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200750,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:45:00,17:36:00,46
+15462201,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200745,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,25:06:00,25:41:00,49
+15462202,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200753,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,24:36:00,25:11:00,46
+15462203,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200749,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,24:09:00,24:44:00,49
+15462204,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200748,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:48:00,20:31:00,46
+15462205,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200746,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:21:00,20:04:00,46
+15462206,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200753,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:46:00,18:34:00,49
+15462207,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:14:00,18:05:00,46
+15462208,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200744,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:06:00,16:57:00,46
+15462209,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200746,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:30:00,16:22:00,49
+15462210,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200752,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:54:00,15:46:00,46
+15462211,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200748,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:54:00,14:46:00,46
+15462212,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200750,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:22:00,4:55:00,46
+15462213,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200752,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:41:00,5:16:00,46
+15462214,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200753,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:01:00,5:36:00,46
+15462215,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200747,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:30:00,15:22:00,46
+15462216,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:57:00,8:38:00,46
+15462217,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200747,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:19:00,8:00:00,49
+15462218,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200748,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:44:00,7:25:00,46
+15462219,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200752,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:08:00,6:46:00,46
+15462220,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200750,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:53:00,6:31:00,46
+15462221,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200745,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:45:00,22:24:00,46
+15462222,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200748,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:17:00,5:54:00,46
+15462223,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200750,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,23:51:00,24:26:00,46
+15462224,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200750,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:14:00,22:53:00,46
+15462225,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200747,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:00:00,22:39:00,49
+15462226,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200748,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:29:00,22:10:00,46
+15462227,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200746,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:29:00,14:21:00,49
+15462228,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200745,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:18:00,13:09:00,46
+15462229,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200748,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:53:00,12:42:00,49
+15462230,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:29:00,12:17:00,46
+15462231,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200752,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:05:00,11:53:00,49
+15462232,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:34:00,10:18:00,46
+15462233,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200750,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:09:00,9:53:00,46
+15462234,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200745,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:18:00,15:10:00,46
+15462235,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:19:00,14:11:00,46
+15462236,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200750,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:31:00,21:13:00,46
+15462237,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200745,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:45:00,9:28:00,46
+15462238,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200751,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:06:00,15:58:00,46
+15462239,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200753,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:09:00,8:51:00,46
+15462240,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200746,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:02:00,21:43:00,49
+15462241,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200746,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:45:00,23:23:00,46
+15462242,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:03:00,19:48:00,46
+15462243,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200752,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:21:00,10:05:00,49
+15462244,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200748,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:20:00,9:03:00,49
+15462245,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200745,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:02:00,20:45:00,49
+15462246,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200753,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:35:00,20:18:00,46
+15462247,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200747,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:30:00,19:18:00,46
+15462248,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200745,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:18:00,17:09:00,49
+15462249,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:47:00,21:28:00,46
+15462250,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200747,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:17:00,20:59:00,46
+15462251,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200747,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:41:00,11:29:00,46
+15462252,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200751,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:17:00,12:05:00,46
+15462253,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200753,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:49:00,10:33:00,46
+15462254,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200753,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,23:02:00,23:40:00,49
+15462255,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200753,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:16:00,21:57:00,46
+15462256,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200747,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:30:00,13:21:00,46
+15462257,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200746,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:30:00,18:21:00,46
+15462258,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200748,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:00:00,18:48:00,46
+15462259,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200744,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:15:00,11:03:00,49
+15462260,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200745,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:07:00,7:48:00,46
+15462261,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200745,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:27:00,11:15:00,46
+15462262,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:29:00,23:08:00,46
+15462263,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200745,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,23:27:00,24:05:00,46
+15462264,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:18:00,16:10:00,46
+15462265,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200747,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:30:00,17:21:00,46
+15462266,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200748,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:04:00,10:48:00,46
+15462267,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200749,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:20:00,6:58:00,46
+15462268,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200752,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:44:00,8:25:00,46
+15462269,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200747,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:58:00,9:41:00,46
+15462270,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200750,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:53:00,11:41:00,46
+15462271,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200744,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:06:00,12:55:00,46
+15462272,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200752,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:55:00,13:47:00,46
+15462273,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200744,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:06:00,14:58:00,49
+15462274,2,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200753,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:42:00,16:33:00,46
+15462275,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200761,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:57:00,23:32:00,39
+15462276,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200756,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:54:00,22:29:00,39
+15462277,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200760,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:24:00,22:59:00,39
+15462278,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200762,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:09:00,21:45:00,39
+15462279,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200759,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:39:00,23:14:00,42
+15462280,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200757,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:27:00,15:08:00,39
+15462281,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:42:00,6:13:00,39
+15462282,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200760,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,5:23:00,5:53:00,39
+15462283,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200754,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,4:59:00,5:29:00,39
+15462284,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:54:00,21:30:00,39
+15462285,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:58:00,12:38:00,39
+15462286,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200760,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:44:00,12:24:00,42
+15462287,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200757,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:56:00,11:33:00,39
+15462288,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200761,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:43:00,11:20:00,42
+15462289,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200754,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:31:00,10:07:00,39
+15462290,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200761,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:59:00,9:35:00,42
+15462291,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:41:00,9:15:00,39
+15462292,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200761,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:27:00,8:01:00,39
+15462293,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200758,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:10:00,8:44:00,39
+15462294,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:10:00,7:44:00,39
+15462295,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200758,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:39:00,7:13:00,39
+15462296,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200754,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:23:00,6:55:00,39
+15462297,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200761,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:00:00,6:32:00,42
+15462298,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200760,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,6:53:00,7:27:00,42
+15462299,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200762,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:30:00,11:07:00,39
+15462300,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200758,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:46:00,10:22:00,42
+15462301,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200757,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,9:15:00,9:49:00,39
+15462302,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200755,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:55:00,14:35:00,42
+15462303,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200760,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:30:00,14:10:00,39
+15462304,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200756,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:52:00,13:32:00,42
+15462305,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200760,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:01:00,10:37:00,39
+15462306,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200760,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:52:00,19:32:00,39
+15462307,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200757,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:03:00,18:44:00,39
+15462308,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200762,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:37:00,18:18:00,39
+15462309,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200760,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:03:00,17:44:00,39
+15462310,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200754,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:05:00,13:45:00,39
+15462311,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200757,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:40:00,13:20:00,39
+15462312,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:29:00,16:10:00,39
+15462313,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200758,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,25:16:00,25:47:00,39
+15462314,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200760,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:38:00,21:16:00,42
+15462315,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200754,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:52:00,15:33:00,42
+15462316,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200761,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:28:00,13:08:00,39
+15462317,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200757,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:14:00,23:49:00,39
+15462318,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200758,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:27:00,12:07:00,39
+15462319,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200758,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:23:00,21:01:00,39
+15462320,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200757,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:53:00,20:31:00,42
+15462321,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200762,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:25:00,20:03:00,39
+15462322,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200754,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:39:00,17:21:00,39
+15462323,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200761,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:03:00,16:45:00,39
+15462324,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200755,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:41:00,16:22:00,39
+15462325,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200758,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:04:00,15:45:00,39
+15462326,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200756,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:39:00,15:20:00,39
+15462327,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200762,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:05:00,14:45:00,39
+15462328,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:43:00,14:23:00,39
+15462329,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,25:49:00,26:20:00,39
+15462330,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200756,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:16:00,18:56:00,39
+15462331,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200761,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:21:00,21:57:00,39
+15462332,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200757,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,21:38:00,22:14:00,42
+15462333,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200757,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,24:45:00,25:19:00,42
+15462334,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,24:16:00,24:49:00,39
+15462335,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200758,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,23:44:00,24:19:00,42
+15462336,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200760,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,8:25:00,8:59:00,39
+15462337,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200761,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:38:00,20:16:00,39
+15462338,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200756,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,20:08:00,20:46:00,39
+15462339,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200761,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:51:00,18:32:00,42
+15462340,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,19:07:00,19:47:00,39
+15462341,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200758,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:40:00,19:20:00,42
+15462342,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200758,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:51:00,17:33:00,42
+15462343,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200762,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:51:00,16:33:00,42
+15462344,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station via Trapp Rd,2200754,321500,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:55:00,8:29:00,42
+15462345,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,10:16:00,10:53:00,39
+15462346,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200754,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,11:13:00,11:50:00,39
+15462347,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200762,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,12:15:00,12:55:00,39
+15462348,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200758,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,13:17:00,13:57:00,39
+15462349,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200761,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,14:15:00,14:56:00,39
+15462350,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200760,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,15:17:00,15:58:00,39
+15462351,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200757,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:15:00,16:57:00,39
+15462352,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200759,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:15:00,17:56:00,39
+15462353,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200758,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,22:09:00,22:44:00,39
+15462354,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200757,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,7:39:00,8:13:00,39
+15462355,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200756,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,16:27:00,17:09:00,39
+15462356,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200755,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,17:27:00,18:08:00,39
+15462357,3,0,22nd Street Station,100 Marine Drive/To 22nd St Station,2200754,321501,Marpole Loop @ Bay 5,22nd Street Station @ Unloading Only,18:28:00,19:08:00,39
+15462358,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200759,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:47:00,22:28:00,46
+15462359,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:13:00,21:56:00,46
+15462360,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200757,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:44:00,21:25:00,49
+15462361,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200760,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:36:00,8:15:00,49
+15462362,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200756,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:42:00,14:31:00,49
+15462363,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200757,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:23:00,23:04:00,46
+15462364,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200761,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:40:00,19:27:00,49
+15462365,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200762,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:37:00,10:20:00,49
+15462366,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200754,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:39:00,9:21:00,49
+15462367,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200760,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:43:00,20:26:00,49
+15462368,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200756,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:11:00,19:54:00,46
+15462369,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200754,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:16:00,4:51:00,46
+15462370,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200760,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:38:00,5:13:00,46
+15462371,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200761,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:15:00,5:52:00,46
+15462372,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200759,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:09:00,18:56:00,46
+15462373,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200757,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:23:00,9:05:00,46
+15462374,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200757,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:06:00,17:54:00,46
+15462375,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200761,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:29:00,21:11:00,46
+15462376,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200759,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:58:00,20:41:00,46
+15462377,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200757,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:44:00,12:30:00,49
+15462378,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:33:00,11:18:00,46
+15462379,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200754,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:42:00,16:31:00,49
+15462380,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200759,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:23:00,7:02:00,49
+15462381,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200759,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:04:00,11:49:00,46
+15462382,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200757,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:02:00,10:45:00,46
+15462383,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200758,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:55:00,23:33:00,49
+15462384,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200760,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:09:00,9:52:00,46
+15462385,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200761,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:10:00,8:51:00,46
+15462386,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200757,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:51:00,7:30:00,46
+15462387,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200755,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:57:00,13:46:00,46
+15462388,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200762,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:26:00,19:13:00,46
+15462389,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200759,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:52:00,8:31:00,46
+15462390,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200754,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:38:00,6:15:00,46
+15462391,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:21:00,8:00:00,46
+15462392,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200760,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:06:00,6:45:00,46
+15462393,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200760,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,21:28:00,22:09:00,49
+15462394,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200759,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,4:57:00,5:33:00,49
+15462395,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,5:52:00,6:31:00,46
+15462396,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200755,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:44:00,15:33:00,49
+15462397,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200759,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,23:26:00,24:04:00,46
+15462398,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200759,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:46:00,13:35:00,49
+15462399,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200761,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,22:06:00,22:47:00,49
+15462400,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:07:00,14:56:00,46
+15462401,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200759,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:25:00,10:08:00,46
+15462402,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200761,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:06:00,15:55:00,46
+15462403,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200760,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:07:00,16:55:00,46
+15462404,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200762,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:08:00,13:57:00,46
+15462405,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200754,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:08:00,12:56:00,46
+15462406,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200758,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:42:00,18:29:00,49
+15462407,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200762,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:41:00,17:29:00,49
+15462408,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200762,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:14:00,20:56:00,46
+15462409,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,8:54:00,9:36:00,46
+15462410,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200754,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:19:00,11:04:00,46
+15462411,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200761,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,9:49:00,10:32:00,46
+15462412,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200759,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,24:59:00,25:33:00,49
+15462413,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,24:29:00,25:04:00,46
+15462414,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200757,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,23:59:00,24:34:00,49
+15462415,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,19:28:00,20:11:00,46
+15462416,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200757,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,18:54:00,19:41:00,46
+15462417,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200760,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:54:00,18:41:00,46
+15462418,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200761,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:54:00,17:42:00,46
+15462419,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:54:00,16:42:00,46
+15462420,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200762,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:54:00,15:43:00,46
+15462421,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200759,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:32:00,15:21:00,46
+15462422,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200754,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:55:00,14:44:00,46
+15462423,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200757,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:30:00,14:19:00,46
+15462424,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200756,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,20:59:00,21:42:00,46
+15462425,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200760,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:33:00,13:21:00,46
+15462426,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200756,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:55:00,12:42:00,46
+15462427,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200761,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:32:00,12:17:00,46
+15462428,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop via Trapp Rd,2200760,321506,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,10:48:00,11:33:00,49
+15462429,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200762,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,11:19:00,12:04:00,46
+15462430,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200758,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,12:20:00,13:08:00,46
+15462431,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200761,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,13:18:00,14:07:00,46
+15462432,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200760,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,14:20:00,15:09:00,46
+15462433,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200756,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:30:00,16:19:00,46
+15462434,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200755,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:30:00,17:18:00,46
+15462435,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200754,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:30:00,18:18:00,46
+15462436,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200754,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,7:06:00,7:45:00,46
+15462437,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200761,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,6:40:00,7:19:00,46
+15462438,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200757,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,15:18:00,16:07:00,46
+15462439,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200759,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,16:18:00,17:06:00,46
+15462440,3,1,Marpole Loop,100 Marine Drive/To Marpole Loop,2200756,321507,22nd Street Station @ Bay 6,Marpole Loop @ Bay 1,17:18:00,18:06:00,46

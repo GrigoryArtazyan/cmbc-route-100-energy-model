@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Quarto / Pandoc
+.quarto/
+*_cache/
+*.Rhistory
+
+# Large draft and duplicate renders
+drafts/
+docs/
+output/*.html
+
+# Keep the rendered report PDF in the repo
+!output/*.pdf
+
+# Editor
+.idea/
+.vscode/
+*.swp

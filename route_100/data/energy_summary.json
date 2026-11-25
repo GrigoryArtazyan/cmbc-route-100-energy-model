@@ -1,0 +1,71 @@
+{
+  "source": "route_100/data/route_100_main_routes_elevation.gpx",
+  "tool": "https://www.gpsvisualizer.com/elevation",
+  "smooth_m": 400,
+  "kwh_per_m": 0.050549,
+  "joules_per_m": 181975.5,
+  "mass_kg": 18550,
+  "rate_kwh_per_km": 1.5,
+  "drive": 0.85,
+  "regen": 0.5,
+  "cold": 1.1,
+  "cold_regen": 0.5,
+  "deadhead_km": 4,
+  "deadhead_kwh": 6.0,
+  "pack_kwh": 374,
+  "useable_kwh": 350,
+  "start_kwh": 355.3,
+  "floor_kwh": 24,
+  "budget_kwh": 350,
+  "east": {
+    "distance_km": 14.931,
+    "climb_m": 108.1,
+    "descent_m": 68.8,
+    "net_m": 39.4,
+    "flat_kwh": 22.396,
+    "grade_kwh": 4.693,
+    "kwh": 27.089,
+    "kwh_per_km": 1.814,
+    "cold_kwh": 30.197
+  },
+  "west": {
+    "distance_km": 16.839,
+    "climb_m": 104.0,
+    "descent_m": 140.8,
+    "net_m": -36.8,
+    "flat_kwh": 25.258,
+    "grade_kwh": 2.624,
+    "kwh": 27.883,
+    "kwh_per_km": 1.656,
+    "cold_kwh": 32.188
+  },
+  "loop_kwh": 54.971,
+  "flat_loop_kwh": 47.654,
+  "cold_loop_kwh": 62.385,
+  "loop_kwh_per_km": 1.73,
+  "block_id": "2200735",
+  "block_trips": 6,
+  "block_service_kwh": 164.914,
+  "block_used_kwh": 164.914,
+  "block_left_kwh": 190.386,
+  "block_start_soc": 95.0,
+  "block_finish_soc": 50.9,
+  "block_start_clock": "05:16",
+  "block_finish_clock": "10:29",
+  "block_service_km": 95.3,
+  "over_budget": {
+    "weekday": {
+      "over": 8,
+      "total": 23
+    },
+    "saturday": {
+      "over": 8,
+      "total": 10
+    },
+    "sunday": {
+      "over": 7,
+      "total": 9
+    }
+  },
+  "start_soc": 0.95
+}
